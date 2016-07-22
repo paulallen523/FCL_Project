@@ -24,4 +24,4 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 3. Place your own MongoDB URI in `config/database.js`
 3. Start the server: `node server.js`
 4. View in browser at `http://localhost:8080`
-5. App seemed to start up best on my machine by starting the MongoDB daemon, <mongod> in first tab, then starting <nodemon server.js> in the second tab.
+5. App seemed to start up best on my machine by starting the MongoDB daemon, 'mongod' in first tab, then starting 'nodemon server.js' in the second tab.
